@@ -1,2 +1,4 @@
-# Data-Analysis-Dashboard-Food-Items
-Designed an interactive Excel sales Dashboard which provides a comprehensive and informative overview of food item sales. It presents key metrics in an intuitive format, ensuring data-driven decision-making.
+# Food-Store-Data-Analysis (Interactive Excel Dashboard)
+## Project Objective
+To create and analyze the annual sales report (2021, 2022), which helps understand current business status, business trends, and forecasting future Business plans.
+
