@@ -44,6 +44,6 @@ To create and analyze the annual sales report (2021, 2022), which helps understa
 •	The final dashboard presents a visually appealing, data-driven story for business insights.
 
 ## Dashboard Preview: 
-![Sales Store](https://github.com/user-attachments/assets/8a3316ba-8295-4621-b246-08859446857a)
+![Sales Report](https://github.com/user-attachments/assets/a482a5c9-09fa-4f5c-a16e-a96fa933b14c)
 
 
