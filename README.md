@@ -47,9 +47,25 @@ To create and analyze the annual sales report (2021, 2022), which helps understa
 ![Sales Report](https://github.com/user-attachments/assets/a482a5c9-09fa-4f5c-a16e-a96fa933b14c)
 
 ## Business Insights:
-1. ##Top-Performing Region: North West generated the highest sales (49.72K), making it the strongest market, while South East had the lowest (39.06K).
+1. Top-Performing Region: North West generated the highest sales (49.72K), making it the strongest market, while South East had the lowest (39.06K).
+
 2. Sales Trends: Sales peaked in certain months, but a sharp decline is visible mid-year. Addressing these drops can improve revenue stability.
+
 3. Key Customers: C11 (25.3K) and C10 (24.2K) are the top contributors. Strengthening relationships with them can drive long-term sales growth.
+
 4. Sales Team Insights: Ram and Suresh performed best across regions, while Anil had the lowest sales. Analysing their strategies can enhance overall performance.
+
 5. Data-Driven Decisions: The dashboard’s interactive slicers allow filtering by region, salesperson, and year, enabling quick business insights.
+
+## Final Insights:
+1. The northwest leads in sales (49.72K), while the Southeast has the lowest (39.06K), indicating a need to focus on weaker regions for growth. 
+
+2. C11 and C10 are the top customers, contributing the highest revenue, making them key for retention and targeted sales strategies. 
+
+3. Ram and Suresh outperform others in sales, while Anil has the lowest sales, highlighting potential training or support needs. 
+
+4. Sales trends show mid-year declines, suggesting the need for better forecasting and promotional strategies during low-performing months. 
+
+5. The interactive dashboard allows real-time filtering, helping businesses quickly analyze sales by region, salesperson, and year for informed decision-making.
+
 
