@@ -24,7 +24,7 @@ To create and analyze the annual sales report (2021, 2022), which helps understa
 9.	What was the sales trend between 2021 and 2022?
 10.	Which month had the lowest percentage of total sales?
     
-- Dashboard Interaction <a href="https://github.com/Riteshe3/Data-Analysis-Dashboard-Food-Items/blob/main/Sales%20Store.jpg">View Dashboard</a>
+- Dashboard Interaction <a href="https://github.com/Riteshe3/Data-Analysis-Dashboard-Food-Items/blob/main/Sales%20Report.jpg">View Dashboard</a>
 
 ## Process:
 1. Data Collection & Import (Power Query & Excel)
