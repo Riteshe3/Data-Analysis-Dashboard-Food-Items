@@ -1,4 +1,7 @@
 # Food-Store-Data-Analysis (Interactive Excel Dashboard)
+## Dashboard Preview: 
+![Sales Report](https://github.com/user-attachments/assets/a482a5c9-09fa-4f5c-a16e-a96fa933b14c)
+
 ## Project Objective
 To create and analyze the annual sales report (2021, 2022), which helps understand current business status, business trends, and forecasting future Business plans.
 
@@ -42,9 +45,6 @@ To create and analyze the annual sales report (2021, 2022), which helps understa
 •	Pivot Charts transform numerical data into interactive visual reports for better understanding.
 •	Slicers & Filters allow users to interactively explore data, enabling quick decision-making.
 •	The final dashboard presents a visually appealing, data-driven story for business insights.
-
-## Dashboard Preview: 
-![Sales Report](https://github.com/user-attachments/assets/a482a5c9-09fa-4f5c-a16e-a96fa933b14c)
 
 ## Business Insights:
 1. Top-Performing Region: North West generated the highest sales (49.72K), making it the strongest market, while South East had the lowest (39.06K).
