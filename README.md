@@ -51,7 +51,7 @@ To create and analyze the annual sales report (2021, 2022), which helps understa
 
 2. Sales Trends: Sales peaked in certain months, but a sharp decline is visible mid-year. Addressing these drops can improve revenue stability.
 
-3. Key Customers: C11 (25.3K) and C10 (24.2K) are the top contributors. Strengthening relationships with them can drive long-term sales growth.
+3. Key Customers: C11 (25.3K) and C2 (24.2K) are the top contributors. Strengthening relationships with them can drive long-term sales growth.
 
 4. Sales Team Insights: Ram and Suresh performed best across regions, while Anil had the lowest sales. Analysing their strategies can enhance overall performance.
 
@@ -60,12 +60,12 @@ To create and analyze the annual sales report (2021, 2022), which helps understa
 ## Final Insights:
 1. The northwest leads in sales (49.72K), while the Southeast has the lowest (39.06K), indicating a need to focus on weaker regions for growth. 
 
-2. C11 and C10 are the top customers, contributing the highest revenue, making them key for retention and targeted sales strategies. 
+2. C11 and C2 are the top customers, contributing the highest revenue, making them key for retention and targeted sales strategies. 
 
-3. Ram and Suresh outperform others in sales, while Anil has the lowest sales, highlighting potential training or support needs. 
+4. Ram and Suresh outperform others in sales, while Anil has the lowest sales, highlighting potential training or support needs. 
 
-4. Sales trends show mid-year declines, suggesting the need for better forecasting and promotional strategies during low-performing months. 
+5. Sales trends show mid-year declines, suggesting the need for better forecasting and promotional strategies during low-performing months. 
 
-5. The interactive dashboard allows real-time filtering, helping businesses quickly analyze sales by region, salesperson, and year for informed decision-making.
+6. The interactive dashboard allows real-time filtering, helping businesses quickly analyze sales by region, salesperson, and year for informed decision-making.
 
 
